@@ -1,0 +1,19 @@
+float celciusValue
+float fahrenheitValue
+integer userChoice
+
+
+userChoice = Get next input
+celciusValue = 0.0
+
+while userChoice == 1
+   fahrenheitValue= (celciusValue * 9.0/5.0) + 32.0
+   Put celciusValue to output
+   Put " C is " to output
+   Put fahrenheitValue to output
+   Put "F\n" to output
+   celciusValue = celciusValue + 5
+   userChoice = Get next input
+   
+   
+Put " Goodbye. " to output

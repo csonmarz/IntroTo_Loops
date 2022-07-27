@@ -1,0 +1,22 @@
+● Loops: A loop is a program construct that
+repeatedly executes the loop's statements
+(known as the loop body) while the loop's
+expression is true; when false, execution
+proceeds past the loop.
+
+● Iteration: Each time through a loop's 
+statements is called an iteration.
+
+● Loop Body: 
+A program construct that repeatedly executes 
+the loop's statements(known as the loop body) 
+while the loop's expression is true; when false, execution
+proceeds past the loop.
+
+● Terminating Condition: Loops allows a 
+program to repeat through a group of statements 
+until a terminating condition is met.
+
+
+● Infinite Loop: An infinite loop is a loop
+that never stops iterating
